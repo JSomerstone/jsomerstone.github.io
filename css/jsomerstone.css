@@ -72,14 +72,9 @@ div.category {
 
 a.social {
     color: #000000;
-    font-size: 7em;
 }
 a.social:focus, a.social:hover {
     color: yellowgreen;
-}
-
-div.row div {
-    #border: 1px dotted #c0c0c0;
 }
 
 div.odd {
@@ -111,7 +106,4 @@ div.top-padding {
 input.player-name:hover, input.player-name:focus {
     background-color: lightgoldenrodyellow;
     cursor: text;
-}
-
-div.progress-bar {
 }
