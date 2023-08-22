@@ -619,7 +619,7 @@ $("#the-placeholder").append(
             return [
                 `<div class="category ${ n%2==0 ? 'even' : 'odd' }">`,
                     `<div class="container" id="${item.id}">`,
-                        `<h1>${item.headline}</h1>`,
+                        `<h1>${item.headline} <a href="#${item.id}"><i class="fa fa-link fa-1" aria-hidden="true"></i></a></h1>`,
                         `<p>${item.description.replaceAll("\n", "<br\>")}</p>`,
                         '<div class="row">',
                             '<div class="col-lg-6">',
