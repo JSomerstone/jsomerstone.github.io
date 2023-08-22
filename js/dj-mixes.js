@@ -617,8 +617,8 @@ $("#the-placeholder").append(
     theMixes.map(
         (item, n) => {
             return [
-                `<div class="category ${ n%2==0 ? 'even' : 'odd' }">`,
-                    `<div class="container" id="${item.id}">`,
+                `<div id="${item.id}" class="category ${ n%2==0 ? 'even' : 'odd' }">`,
+                    `<div class="container">`,
                         `<h1>${item.headline} <a href="#${item.id}"><i class="fa fa-link fa-1" aria-hidden="true"></i></a></h1>`,
                         `<p>${item.description.replaceAll("\n", "<br\>")}</p>`,
                         '<div class="row">',
