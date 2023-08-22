@@ -1,5 +1,45 @@
 let theMixes = [
     {
+        id: "dsog-v6",
+        headline: "Deep Sort of Good vol 6",
+        description: `The sixth volume of Deep Sort of Good mixes filled with absolute gems of Progressive/Melodic House/Techno.
+
+            Tech:
+            - Serato DJ Pro
+            - Numark Mixtrack Fx
+            
+            Socials:
+            
+            - https://www.instagram.com/jsomerstone/
+            - https://www.mixcloud.com/JSomerstone/`,
+        iFrame: "https://www.mixcloud.com/widget/iframe/?feed=%2FJSomerstone%2Fdeep-sort-of-good-vol-6%2F",
+        tracklist: `
+[00:00] Avis Vox - Under Water
+[02:25] Miss Monique & Nahue Sintes - Don't Come Back (feat. JOSEFINA)
+[06:25] Eden Shalev - Papi (Original Mix)
+[08:40] Sound Quelle, Dolly Rae - Nobody Knows (Extended Mix)
+[13:00] Minörs - Levitate
+[18:20] Nora En Pure - Oblivion (Extended Mix)
+[22:20] Nordfold - Credits (Extended Mix)
+[26:10] Eli & Dani, Adam Sellouk, Matan Tamal - Polar (Original Mix)
+[30:30] Malla - Moi
+[33:35] KASIA (ofc) - Water World (Original Mix)
+[37:30] Tinlicker & Robert Miles - Children (Extended Mix)
+[41:50] Sian Evans - Hide U (Tinlicker Extended Remix)
+[46:15] Zonderling - Sirene (Extended)
+[50:40] That Girl, LÜRUM - Fall or Fly (Extended Mix)
+[55:20] Monolink - Otherside (Fideles Remix)
+[59:00] ARTBAT - Horizon (Original Mix)
+[1:04:30] Tube & Berger, Blake Light - Data Compromised (Extended Mix)
+[1:08:00] Adam Sellouk - Mirage (Extended Mix)
+[1:11:15] Victor Garde - Aylyak (Extended Mix)
+[1:14:45] Fatum, Bigfett - Evolve (Extended)
+[1:18:10] Andrew Meller - Insomnia (Original Mix)
+[1:21:40] Jil Tanner - Toxic People (Stil & Bense Remix)
+[1:24:20] deadmau5 & Kaskade - I Remember (John Summit Remix)
+[1:26:45] Fred again.. - Clara (the night is dark)`
+    },
+    {
         id: "b2b-discotech-2023-08-09",
         headline: "B2B Dj Towerdose @ DiscoTech / Melodic House & Techno",
         description: `We teamed up with Dj Towerdose to bring you an hour of great Melodic Techno and Progressive House music.
