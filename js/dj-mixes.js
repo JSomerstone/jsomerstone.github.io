@@ -1,43 +1,39 @@
 let theMixes = [
     {
-        id: "dsog-v6",
-        headline: "Deep Sort of Good vol 6",
-        description: `The sixth volume of Deep Sort of Good mixes filled with absolute gems of Progressive/Melodic House/Techno.
+        id: "discotech-2023-08-23",
+        headline: "Live @ Discotech",
+        description: `Going back to the original Disco! It is a multi-decade musical journey from old-school disco from the '70s and '80s, newer disco from the early 2000s, Nu-disco and house from the 2020s, and ending up with a few techno remixes.
 
-            Tech:
-            - Serato DJ Pro
-            - Numark Mixtrack Fx
-            
-            Socials:
-            
-            - https://www.instagram.com/jsomerstone/
-            - https://www.mixcloud.com/JSomerstone/`,
-        iFrame: "https://www.mixcloud.com/widget/iframe/?feed=%2FJSomerstone%2Fdeep-sort-of-good-vol-6%2F",
+        Played live at Discotech club in Lounge 29, Helsinki on 2023-08-23.`,
+        iFrame: "https://www.mixcloud.com/widget/iframe/?feed=%2FJSomerstone%2Flive-discotech-2023-08-23-disco-nu-disco-house-techno%2F",
         tracklist: `
-[00:00] Avis Vox - Under Water
-[02:25] Miss Monique & Nahue Sintes - Don't Come Back (feat. JOSEFINA)
-[06:25] Eden Shalev - Papi (Original Mix)
-[08:40] Sound Quelle, Dolly Rae - Nobody Knows (Extended Mix)
-[13:00] Minörs - Levitate
-[18:20] Nora En Pure - Oblivion (Extended Mix)
-[22:20] Nordfold - Credits (Extended Mix)
-[26:10] Eli & Dani, Adam Sellouk, Matan Tamal - Polar (Original Mix)
-[30:30] Malla - Moi
-[33:35] KASIA (ofc) - Water World (Original Mix)
-[37:30] Tinlicker & Robert Miles - Children (Extended Mix)
-[41:50] Sian Evans - Hide U (Tinlicker Extended Remix)
-[46:15] Zonderling - Sirene (Extended)
-[50:40] That Girl, LÜRUM - Fall or Fly (Extended Mix)
-[55:20] Monolink - Otherside (Fideles Remix)
-[59:00] ARTBAT - Horizon (Original Mix)
-[1:04:30] Tube & Berger, Blake Light - Data Compromised (Extended Mix)
-[1:08:00] Adam Sellouk - Mirage (Extended Mix)
-[1:11:15] Victor Garde - Aylyak (Extended Mix)
-[1:14:45] Fatum, Bigfett - Evolve (Extended)
-[1:18:10] Andrew Meller - Insomnia (Original Mix)
-[1:21:40] Jil Tanner - Toxic People (Stil & Bense Remix)
-[1:24:20] deadmau5 & Kaskade - I Remember (John Summit Remix)
-[1:26:45] Fred again.. - Clara (the night is dark)`
+[00:00] Play That Funky Music - Wild Cherry
+[02:30] Good Times - Chic
+[06:20] Black Betty - Tom Jones
+[09:10] Dr. Beat (Long Version) - Miami Sound Machine
+[12:15] Relight My Fire (12" Disco Remix) - Dan Hartman
+[17:25] Liquid Spirit (Claptone Remix) - Gregory Porter
+[21:10] Everybody’s Free (To Feel Good) - JS16, Alora & Senii & Felix Ojack feat. Astrid Nicole
+[24:00] The Music Began to Play (Extended Mix) - Mark Knight & Armand Van Helden
+[27:10] Disco Inferno - The Trammps
+[30:45] Rejuvenate (Extended Mix) - Ann Nesby, LEFTI feat. Ann Nesby
+[34:50] Body Funk (Yolanda Be Cool Remix) - Purple Disco Machine & Yolanda Be Cool
+[37:45] Drop the Pressure (Purple Disco Machine Remix) -  Claptone & Mylo
+[42:35] Another Love (Zwette Edit) - Tom Odell
+[46:00] Don't You Know - Kungs feat. Jamie N Commons
+[48:35] On My Mind (Purple Disco Machine Remix) - iplo & SIDEPIECE
+[52:15] Feeling Good (Extended Mix) - Redondo feat. Shayee
+[53:10] Star to Fall (Extended Mix) - Disko Junkie
+[59:10] Survivor - Jack Back
+[1:01:10] Juice (Extended Mix) - LEFTI, N2N
+[1:02:40] Move Your Body (Soul Avengerz Club Mix) - Rhythm Republic Vs Marshall Jefferson
+[1:07:20] Music (Deep Dish Dot Com Radio Edit) - Madonna
+[1:11:00] Boogie Wonderland (Original Mix) - Ale Molinari
+[1:14:00] Without You (Sadie Remix) - MVLDER
+[1:16:00] Sirenes (Kinree Remix) - Taly Shum
+[1:20:25] Edge of Seventeen - Wuki
+[1:22:50] Take If Off (Dave Summit Techno Rework) - FISHER
+[1:25:15] (It Goes Like) Nanana (Maddix Remix) - Peggy Gou`
     },
     {
         id: "b2b-discotech-2023-08-09",
