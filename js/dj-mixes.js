@@ -1,5 +1,27 @@
 let theMixes = [
     {
+        id: "pulse999-vol-1",
+        headline: "Live @ Pulse999:vol 1 / Melodic Techno",
+        description: `The opening set of Pulse999:vol 1 -parties in Enlightery Puotila, Helsinki on 2023-09-29.
+        This was the party I waited sooo much! First time playing at Enlightery Puotila venue. Special thanks to <a href="https://www.instagram.com/_psyval_/">Psyval</a> for inviting me.
+        Also check out <a href="https://www.mixcloud.com/towerdose/towerdose-live-pulse999-vol1-2992023/">Dj Towerdoses set</a>, also member of <a href="https://linktr.ee/threejays_">ThreeJays-collective</a>.
+
+        Due to technical difficulties with recording, I only have 40 minutes of my hour set -_-`,
+        iFrame: "https://player-widget.mixcloud.com/widget/iframe/?feed=%2FJSomerstone%2Fpulse999vol-1-melodic-techno%2F",
+        tracklist:`
+[00:00] Airsand & TuraniQa - Miracle (Extended Mix)
+[05:20] Steve Levi - DoomTak (Extended Mix)
+[08:45] Th;en - Katania (Extended)
+[12:30] Moonwalk - Beyond (Original Mix)
+[16:20] Stereo Express - Rise Of The 2nd Sun (Original Mix)
+[18:28] Galluxy, Different Stage - Burning Inside (Original Mix)
+[21:20] JES, Space Motion - Universe (Original Mix)
+[25:30] John Summit, Hayla - Where You Are (Gorgon City Extended Remix)
+[28:30] The YellowHeads & Julien Earle - Sorrys (feat. Brieanna Grace)
+[31:40] ON_1 - 4AM in The Void
+[34:40] Spektre - Retrograde`
+    },
+    {
         id: "discotech-2023-08-23",
         headline: "Live @ Discotech",
         description: `Going back to the original Disco! It is a multi-decade musical journey from old-school disco from the '70s and '80s, newer disco from the early 2000s, Nu-disco and house from the 2020s, and ending up with a few techno remixes.
