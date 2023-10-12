@@ -1,5 +1,40 @@
 let theMixes = [
     {
+        id: "techno-sessions-1",
+        headline: "Techno Sessions vol 1",
+        description: `A musical journey through different sub-genres of Techno. Thanks to all who helped me put the tracklist together on Instagram.
+        `,
+        iFrame: "<https://player-widget.mixcloud.com/widget/iframe/?feed=%2FJSomerstone%2Ftechno-sessions-vol-1%2F",
+        tracklist: `
+[00:00] Isaiah Wafer - I need you (Original Mix)
+[04:40] Zonderling - Sirene (Extended)
+[09:40] Victor Garde - Aylyak (Extended Mix)
+[13:10] Enrico Sangiuliano - Cosmic Ratio
+[16:45] Colyn - Oxygen Levels Low (Original Mix)
+[21:00] Taly Shum - Sirenes (Kinree Remix)
+[25:40] Mehmet Ozbek, Batikan Abiz - Infinity (Zafer Atabey Remix)
+[29:00] ON_1 ft. Starli - PLUR (Extended Mix)
+[31:10] Mau P - Your Mind Is Dirty (Extended Mix)
+[34:40] Rudaki - Astana (Original Mix)
+[37:55] Doctor Keos - Ameno (Techno Remix)
+[41:00] Trey Pearce & Revealed Recordings - Stay with Me (Extended Mix)
+[43:55] Age of Love - The Age of Love (Charlotte de Witte & Enrico Sangiuliano Remix)
+[48:55] Torc - Ten Rules (acid edit)
+[51:50] U96 - Das Boot (V2) (D72 Extended Remix)
+[55:40] Squid Game - Pink Soldiers (Maddix Remix)
+[59:40] Eli Brown - Be The One (Extended Mix)
+[1:03:30] Tube & Berger, Nick Schwenderling - Work My Body (Extended Mix)
+[1:07:15] Sam WOLFE feat. Amye - Running From Yourself (Original Mix)
+[1:11:50] ON_1 - 4AM in the Void
+[1:14:55] Fer Fox - Feeling the Moon
+[1:19:20] Teenage Mutants feat. Heerhorst & Peter Pahn - Dark Clouds (Extended Mix)
+[1:23:20] Reinier Zonneveld & Edward Artemiev - Resurrection (Reinier Zonneveld 2020 Remix)
+[1:27:15] Lilly Palmer - Aether
+[1:30:15] Business City - Olemme Reivi Eliitti
+[1:34:25] Vanylla - Techno Future (Original Mix)
+[1:38:40] ZHU - Faded (Synthsoldier Remix Extended)`
+    },
+    {
         id: "pulse999-vol-1",
         headline: "Live @ Pulse999:vol 1 / Melodic Techno",
         description: `The opening set of Pulse999:vol 1 -parties in Enlightery Puotila, Helsinki on 2023-09-29.
