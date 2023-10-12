@@ -4,7 +4,7 @@ let theMixes = [
         headline: "Techno Sessions vol 1",
         description: `A musical journey through different sub-genres of Techno. Thanks to all who helped me put the tracklist together on Instagram.
         `,
-        iFrame: "<https://player-widget.mixcloud.com/widget/iframe/?feed=%2FJSomerstone%2Ftechno-sessions-vol-1%2F",
+        iFrame: "https://player-widget.mixcloud.com/widget/iframe/?feed=%2FJSomerstone%2Ftechno-sessions-vol-1%2F",
         tracklist: `
 [00:00] Isaiah Wafer - I need you (Original Mix)
 [04:40] Zonderling - Sirene (Extended)
