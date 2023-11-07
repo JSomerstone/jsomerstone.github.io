@@ -1,4 +1,73 @@
+/**
+    {
+        id: "",
+        headline: "",
+        description: ``,
+        iFrame: "",
+        tracklist: ``
+    },
+ */
 let theMixes = [
+    {
+        id: "DSoG-v7",
+        headline: "Deep Sort of Good vol 7",
+        description: `Seventh volume of Deep Sort of Good -mixes featuring awesome tracks from great artists like Hannah Wants, Tube & Berger, Faithless, Juliet Sikora, Orkidea and many more.
+
+        Sit back, put your headphones on and let the beats and melodies take you on a journey.
+        `,
+        iFrame: "https://player-widget.mixcloud.com/widget/iframe/?feed=%2FJSomerstone%2Fdsog-v7%2F",
+        tracklist: `
+[00:00] Tube & Berger, Armaja & Alegant - Imagine (Alexey Union Remix)
+[04:35] Mark Devian & Surmillo - Beyond The Shadow
+[09:00] Clarity (Original Mix) - Eli & Dani,  Adam Sellouk
+[13:00] Teenage Mutants - Hanging On
+[17:00] Faithless feat. Nathan Ball & Caleb Femi - I Need Someone (Yotto Remix)
+[20:40] Mees Salomé - A Simpler Time
+[25:35] Tolex - Compass (Original Mix)
+[29:40] Fabio Aurea feat. Toshi - Yini (Armonica Remix)
+[33:45] London Grammar - Darling Are You Gonna Leave Me (LCAW Extended Remix)
+[38:40] Forniva - Show Me (Original Mix)
+[43:20] Nihil Young, Paige, Sara Sommerer - Body Language (Extended Mix)
+[46:45] Pretty Pink feat. Northern Lite - Here Comes the Sun
+[50:45] Chris Veron, AAD (DE) - Human Butterfly (Original Mix)
+[54:25] Michael Scheppert & Whoshafee - Koka
+[59:00] Annett Gapstream - Obscurities of Now (Original Mix)
+[1:03:10] Dan Caster, Bjoern Stoerig - Nouvelle Future (Oliver Schories Remix)
+[1:08:00] Juliet Sikora & Tini Gessler - Mandala Acid (Extended Mix)
+[1:12:25] Tube & Berger feat. Like Mike - Pineapple Tacos (Original Mix)
+[1:16:40] Ginchy, GXD & Yasmin Jane - As the Rush Comes
+[1:21:15] Ray Shield - Bliss (Extended mix)
+[1:23:50] Hannah Wants feat. Hannah Boleyn - Hard To Breathe (Extended Mix)
+[1:29:10] MOGUAI, Vize, Anna Grey - You're Not Alone (Extended)
+[1:32:45] Paul Angelo & Don Argento - Helios
+[1:36:10] SRLX - Straight to my Heart
+[1:39:10] XILEF - Skywalking
+[1:42:50] Nickyb - Night
+[1:44:50] Orkidea - Warehouse Requiem (Extended Mix)`
+    },
+    {
+        id: "mute-ep6",
+        headline: "M.U.T.E. - EP.6 by JSomerstone",
+        description: `Welcome to the sixth Episode of Music Unites The Earth. This time, JSomerstone from Finland will bring you one hour of awesome techno tracks. Are you ready to rock the dancefloor?`,
+        iFrame: "https://player-widget.mixcloud.com/widget/iframe/?feed=%2FMusicUnitesTheEarth%2Fmusic-unites-the-earth-ep-6-by-jsomerstone-from-finland-techno%2F",
+        tracklist: `
+[00:00] Jay Lumen - The Spice
+[03:30] Adam Beyer & Bart Skils - Your Mind (Charles D Epic Mix)
+[07:30] Teenage Mutants - Rebirth
+[10:40] T-78 - Megator
+[14:45] Tube & Berger, Nick Schwenderling - Work My Body (Extended Mix)
+[18:15] ON_1 - 4AM In the Void
+[21:10] Reinier Zonneveld & Edward Artemiev - Resurrection (Reinier Zonneveld 2020 Remix)
+[25:50] Rudaki - Astana (Original Mix)
+[28:40] ROBPM - Double Slap
+[32:30] Mau P - Your Mind Is Dirty (Extended Mix)
+[36:00] Maddix - Heute Nacht (Extended Mix)
+[39:25] Mark Dekoda - Rave Harder Techno Bass
+[43:10] Teenage Mutants feat. Heerhorst & Peter Pahn - Dark Clouds (Extended Mix)
+[46:30] Orkidea - Forward Forever (Indecent Noise Remix)
+[50:50] Vanylla - Techno Future (Original Mix)
+[52:45] Peggy Gou - (It Goes Like) Nanana (Maddix Remix)`
+    },
     {
         id: "techno-sessions-1",
         headline: "Techno Sessions vol 1",
