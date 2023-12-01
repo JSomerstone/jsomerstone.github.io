@@ -9,6 +9,44 @@
  */
 let theMixes = [
     {
+        id: "konekampeli-2023",
+        headline: "Live @ KoneKampeli",
+        description: `I had the privilege to open the main stage of KoneKampeli with my house set. The headliner of the party was <a href="https://www.instagram.com/tempogiusto/" target="_blank">Tempo Giusto</a>.
+
+        My set has tracks from artists such as Juliet Sikora, Going Deeper, Miss Monique, John Summit, Don Duke, Meduza, and Fred Again..
+        
+        Socials:
+        - https://linktr.ee/jsomerstone
+        
+        PS.
+        Unfortunately, the volume levels vary at the beginning of the set and I did not adjust the recording levels accordingly. This causes poor sound quality 5...20 min into the set. Live and learn -_-`,
+        iFrame: "https://player-widget.mixcloud.com/widget/iframe/?feed=%2FJSomerstone%2Flive-at-konekampeli-2023%2F",
+        tracklist: `
+[00:00] it's murph - Food for the Soul
+[03:10] Sebb Junior - Work Hard Every Day (Extended Mix)
+[07:50] Zerb - Mwaki (Original Mix)
+[11:00] Juliet Sikora, Wild Culture - In You (Original Mix)
+[12:35] NiCe7 - Time To Get Physical (Tube & Berger Remix)
+[16:30] Spada & Korolova - Be Strong (Extended Mix)
+[20:25] Going Deeper - My Soul (Original Mix)
+[22:55] Wamdue Project - King of My Castle (Purple Disco Machine Remix)
+[26:25] Kiko Franco - Free Love (feat. Diana Miro)
+[30:00] Miss Monique & AVIRA feat. LUNA - Subterranean (Extended Mix)
+[33:10] Jordan Arts - Find a Way (Tube & Berger and Nick Schwenderling Extended Remix)
+[38:20] John Summit - Forgotten One
+[40:35] Roger Shah & Sian Evans - Hide U (Jerome Isma - Ae 2022 Remix)
+[43:20] Galluxy, Different Stage - Burning Inside (Original Mix)
+[45:45] Duke Dumont feat. Nathan Nicholson - Losing Control
+[48:10] Don Jack - Close 2 Me (Original Mix)
+[50:40] Matt Nash - ML4U
+[53:20] ManyFew - Spread Love (Right Here, Right Now) (Extended)
+[56:30] Rene Amesz & Baggi Begovic - Smells Like Teen Spirit (Hed Kandi XS Presents Marie Claire Remix)
+[1:00:30] Nickyb - Night
+[1:02:45] Meduza - Friends (Extended Mix)
+[1:06:20] Gabriel & Dresden feat. Jan Burton - Keep on Holding (Ilan Bluestone & Maor Levi Extended Mix)
+[1:11:35] Fred again.. & Swedish House Mafia feat. Future - Turn On The Lights again.. (Anyma Remix)`
+    },
+    {
         id: "DSoG-v7",
         headline: "Deep Sort of Good vol 7",
         description: `Seventh volume of Deep Sort of Good -mixes featuring awesome tracks from great artists like Hannah Wants, Tube & Berger, Faithless, Juliet Sikora, Orkidea and many more.
