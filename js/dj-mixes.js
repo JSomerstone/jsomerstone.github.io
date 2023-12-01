@@ -126,6 +126,37 @@ let theMixes = [
 [34:40] Spektre - Retrograde`
     },
     {
+        id: "DSoG-v6",
+        headline: "Deep Sort of Good vol 6",
+        description: `The sixth volume of Deep Sort of Good mixes filled with absolute gems of Progressive/Melodic House/Techno.`,
+        iFrame: "https://player-widget.mixcloud.com/widget/iframe/?feed=%2FJSomerstone%2Fdeep-sort-of-good-vol-6%2F",
+        tracklist: `
+01	Avis Vox - Under Water
+02	Miss Monique & Nahue Sintes - Don't Come Back (feat. JOSEFINA)
+03	Eden Shalev - Papi (Original Mix)
+04	Sound Quelle, Dolly Rae - Nobody Knows (Extended Mix)
+05	Minörs - Levitate
+06	Nora En Pure - Oblivion (Extended Mix)
+07	Nordfold - Credits (Extended Mix)
+08	Eli & Dani, Adam Sellouk, Matan Tamal - Polar (Original Mix)
+09	Malla - Moi
+10	KASIA (ofc) - Water World (Original Mix)
+11	Tinlicker & Robert Miles - Children (Extended Mix)
+12	Sian Evans - Hide U (Tinlicker Extended Remix)
+13	Zonderling - Sirene (Extended)
+14	That Girl, LÜRUM - Fall or Fly (Extended Mix)
+15	Monolink - Otherside (Fideles Remix)
+16	ARTBAT - Horizon (Original Mix)
+17	Tube & Berger, Blake Light - Data Compromised (Extended Mix)
+18	Adam Sellouk - Mirage (Extended Mix)
+19	Victor Garde - Aylyak (Extended Mix)
+20	Fatum, Bigfett - Evolve (Extended)
+21	Andrew Meller - Insomnia (Original Mix)
+22	Jil Tanner - Toxic People (Stil & Bense Remix)
+23	deadmau5 & Kaskade - I Remember (John Summit Remix)
+24	Fred again.. - Clara (the night is dark)`
+    },
+    {
         id: "discotech-2023-08-23",
         headline: "Live @ Discotech",
         description: `Going back to the original Disco! It is a multi-decade musical journey from old-school disco from the '70s and '80s, newer disco from the early 2000s, Nu-disco and house from the 2020s, and ending up with a few techno remixes.
