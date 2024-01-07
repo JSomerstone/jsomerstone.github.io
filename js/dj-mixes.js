@@ -369,8 +369,7 @@ let theMixes = [
     {
         id: "od-2023-07-13",
         headline: "Open Decks at Wäiski 2023-07-13",
-        description: `Last Open Decs at restaurant boat Wäiski. I used this OD as a practice run for my upcoming gig at "DiscoTech" party. 
-        More at Facebook: <a href="https://fb.me/e/fNlD4p7G2" target="_blank">https://fb.me/e/fNlD4p7G2</a>`,
+        description: `Last Open Decs at restaurant boat Wäiski. I used this OD as a practice run for my upcoming gig at "DiscoTech" party.`,
         iFrame: "https://www.mixcloud.com/widget/iframe/?feed=%2FJSomerstone%2Flive-w%C3%A4iski-2023-07-13-house-disco-edm%2F",
         tracklist: ` 
 [00:00] Daft Punk - Da Funk (Space Food Edit)
