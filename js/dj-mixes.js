@@ -9,6 +9,38 @@
  */
 let theMixes = [
     {
+        id: "dsog-v8",
+        headline: "Deep Sort of Good vol 8",
+        description: `Musical Journey to Melodic Techno and House (among other genres)`,
+        iFrame: "https://player-widget.mixcloud.com/widget/iframe/?feed=%2FJSomerstone%2Fdsog-v8%2F",
+        tracklist: `
+[00:00] Loni - Loneliness
+[03:50] Elderbrook - Numb (Elderbrook VIP)
+[07:00] Spada & Korolova - Be Strong (Extended Mix)
+[10:55] Nihil Young, Paige, Sara Sommerer - Body Language (Extended Mix)
+[14:30] St. David - I See U' Movin
+[19:25] John Summit - Forgotten One
+[23:00] Andrea Oliva - Mery (Extended Mix)
+[28:40] Fideles, CamelPhat & Be No Rain - Night After Night (Camelphat Remix)
+[30:55] Lehar - Let People Know (Original Mix)
+[35:25] Galluxy, Different Stage - Burning Inside (Original Mix)
+[38:30] Marksman - Dawn (Extended Mix)
+[42:05] Th;en - Katania (Extended)
+[45:55] Eelke Kleijn - Transmission (Joris Voorn Extended Remix)
+[49:00] David Lindmer - Resonate (Original Mix)
+[53:20] Miss Monique - Concorde (Original Version)
+[57:45] Kevin de Vries, Mau P - Metro (Extended Mix)
+[1:01:30] RSTQ - Off Limits (KARPOVICH Remix)
+[1:05:30] Argy & Omnya - Aria	
+[1:08:50] Chris Bekker, Orkidea - Mind Rave (Extended)
+[1:12:55] Miss Monique & AVIRA feat. LUNA - Subterranean (Extended Mix)
+[1:17:15] Airsand, TuraniQa - The Answer (Original Mix)
+[1:22:00] Ginchy, GXD & Yasmin Jane - As the Rush Comes
+[1:26:20] Josh Butler - Feedback Loop (Original Mix)
+[1:29:45] Avision, XANDER - Whatever (7am Mix)
+[1:35:00] Tamer Fouda - Cybernetic`
+    },
+    {
         id: "konekampeli-2023",
         headline: "Live @ KoneKampeli",
         description: `I had the privilege to open the main stage of KoneKampeli with my house set. The headliner of the party was <a href="https://www.instagram.com/tempogiusto/" target="_blank">Tempo Giusto</a>.
