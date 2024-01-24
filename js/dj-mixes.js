@@ -9,6 +9,47 @@
  */
 let theMixes = [
     {
+        id: "el-patron-2024-01",
+        headline: "Live @ El Patron",
+        description: `My set played at the nightclub ´El Patron´ in Helsinki on 2024-01-19.
+
+            I was very excited about the opportunity to play my first proper nightclub gig at El Patron.
+            It was also my first two-hour set played for a live audience. My set consists mostly of Melodic Techno,
+            but as the people were having such a great time, I got carried away to 135+ BPM Techno.`,
+        iFrame: "https://player-widget.mixcloud.com/widget/iframe/?feed=%2FJSomerstone%2Flive-el-patron-2024-01-19%2F",
+        tracklist: `
+[00:00] Disclosure, Eliza Doolittle - You & Me (Rivo Extended Mix)
+[03:55] Avis Vox - Under Water
+[08:00] Avis Vox - Feel It (Extended Mix)
+[11:30] David Lindmer - Resonate (Original Mix)
+[15:20] Colyn - Wait For You (Original Mix)
+[20:00] Stereo Express - Rise Of The 2nd Sun (Original Mix)
+[23:30] Colyn - Oxygen Levels Low (Original Mix)
+[27:30] JES, Space Motion - Universe
+[30:55] Annabell Kowalski - Hey Boy Hey Girl
+[34:45] Kevin de Vries, Mau P - Metro (Extended Mix)
+[39:35] Silver Panda - Soul Connection
+[43:40] Jil Tanner - Toxic People (Stil & Bense Remix)
+[48:00] ARTBAT & Pete Tong - Age of Love (ARTBAT Rave Mix)
+[53:40] DJ Pressed - Mystery of Mankind
+[57:45] The Prodigy - Breathe (Zeds Dead Remix)
+[1:01:45] Will Sparks & Gigi Russ - Round Round
+[1:05:20] ON_1 - Rave Hotline (Extended Mix)
+[1:08:00] Backwood, Tim van Werd - Avant Garde (Original Mix)
+[1:12:15] ROBPM - Double Slap
+[1:17:00] Sasha Carassi feat. Mz Sunday Luv - The Seekers (Original Mix)
+[1:20:45] DANNY AVILA - Take You Higher
+[1:24:10] Ben Kim - Somebody To Love (DANNY AVILA Remix)
+[1:28:00] Teenage Mutants feat. Heerhorst & Peter Pahn - Dark Clouds (Extended Mix)
+[1:31:30] Dada Life - So Good (Extended Mix)
+[1:35:35] Orkidea - Forward Forever (Indecent Noise Remix)
+[1:41:00] Kamaya Painters - Wasteland (BLR Remix)
+[1:44:00] Taly Shum - Sirenes (Kinree Remix)
+[1:47:50] Fred Again.., Skrillex, Four Tet - Baby Again.. (Original Mix)
+[1:50:30] YellowHeads & Julien Earle - Sorrys (feat. Brieanna Grace)
+[1:54:05] Aly & Fila & JES - I Won't Let You Fall (Space Motion Remix)`
+    },
+    {
         id: "dsog-v8",
         headline: "Deep Sort of Good vol 8",
         description: `Musical Journey to Melodic Techno and House (among other genres)`,
