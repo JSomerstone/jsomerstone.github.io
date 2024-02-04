@@ -9,6 +9,39 @@
  */
 let theMixes = [
     {
+        id: "DSoG-v9",
+        headline: "Deep Sort of Good vol 9",
+        description: `The ninth edition of Deep Sort of Good - Another selection of Melodic House & Techno, sprinkled with a few Deep/Bass House tracks.
+
+        Hope you enjoy it!`,
+        iFrame: "https://player-widget.mixcloud.com/widget/iframe/?feed=%2FJSomerstone%2FDSoG-v9%2F",
+        tracklist: `
+[00:00] Yotto, Franky Wah - Just Over (Franky Wah Extended Remix)
+[02:43] Sander van Doorn & LVNDSCAPE - Need to Feel Loved
+[05:50] Audio Monkey - Color of Light Feat. Iva (Dark Color)
+[11:55] Disclosure, Eliza Doolittle - You & Me (Rivo Extended Mix)
+[16:15] Estiva, RBBTS - Ghost Town (MXV Extended Remix)
+[19:20] Sasha Carassi, Mz Sunday Luv - The Seekers (Original Mix)
+[23:40] Messier, Lorenzo Turco - Arrival (Original Mix)
+[27:05] Hernan Cattaneo, Hicky & Kalo - Voyage (Original Mix)
+[29:30] Pete K - Tariba (Extended Mix)
+[32:55] AN21, Ali Bakgor - Into Dust (Extended Mix)
+[36:40] Argy, Goom Gum - Pantheon (Extended Mix)
+[40:40] Kamilo Sanclemente - Away (Nomas Remix)
+[45:25] Space Motion & Stylo - Dreamers
+[49:20] Schema, Derek Vo - Time (Extended Mix)
+[53:35] Meduza (feat Elroii) - Headrush (JNSN Edit)
+[58:00] Block & Crown & Lissat - My Feelings For You
+[1:01:30] Joël Fabrice - Gettin' Naughty (Original Club Mix)
+[1:05:30] Juliet Sikora - Reflection (Extended Mix)
+[1:09:05] Duke Dumont feat. Nathan Nicholson - Losing Control
+[1:12:20] Oliver Koletzki - Mantra for Bora
+[1:16:40] Heerhorst - Wimbo (6AM Extended Mix)
+[1:20:50] Lufthaus - Ringo (Miss Monique Extended Remix)
+[1:25:00] Kamaya Painters - Wasteland (BLR Extended Remix)
+[1:28:35] Chris Avantgarde - Perception`
+    },
+    {
         id: "el-patron-2024-01",
         headline: "Live @ El Patron",
         description: `My set played at the nightclub ´El Patron´ in Helsinki on 2024-01-19.
